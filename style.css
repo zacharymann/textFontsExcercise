@@ -1,0 +1,89 @@
+/* BONUS 1 */
+/* When linking an import URL for Google fonts, it has to be at the top of the CSS file  */
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+/* 2*/
+body{
+    font-family: 'Orbitron', sans-serif;
+}
+/* 3 */
+span {
+    font-weight: bold;
+}
+/* 4 */
+h1 {
+    font-size: 50px;
+    /* 5 */
+    letter-spacing: 10px;
+}
+
+/* 6, 7, 8 */
+h1
+{
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+/* 9 */
+#series-movies {
+    font-size: 20px;
+}
+/* 10 */
+h2 {
+    font-size: 2em;
+}
+
+/* 11 */
+li {
+    letter-spacing: 2;
+}
+
+/* 12 */
+#characters {
+    font-size: 18px;
+}
+
+/* 13 */
+
+h4 {
+    letter-spacing: 15px;
+}
+
+/* BONUS */
+
+/*  1 */
+/* @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap'); */
+/* See top of the CSS file */
+
+/* 2 */
+h4 {
+    font-family: 'Press Start 2P', cursive;
+  }
+  
+/* h4 {
+  font-family: ;
+} */
+
+/* 3 */
+h4, h3, h2 {
+    text-align: center;
+}
+
+/* 4 */
+li {
+    font-size: 1rem;
+}
+
+/* 5 */
+html {
+    background-image: url(starTrek.jpg);
+    /* 6 */
+    color: rgba(255,255,255, 0.6);
+    /* 7 */
+    background-position: center;
+    /* 8 */
+    background-size: cover;
+}
+
+
